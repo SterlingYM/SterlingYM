@@ -1,7 +1,9 @@
 <!-- ### Welcome 👋 -->
 # Welcome to my Profile!  ![](https://komarev.com/ghpvc/?username=SterligYM&color=blue)
 
-I am a first-year PhD student at Johns Hopkins University. My research interests include cosmological distance ladder, galaxy evolution, and statistical data processing. My previous publications can be checked [here](https://arxiv.org/search/?query=yukei+murakami&searchtype=all&source=header).
+I am a first-year PhD student at Johns Hopkins University. My research interests include cosmological distance ladder, galaxy evolution, and statistical data processing. 
+
+My previous publications can be checked [here](https://arxiv.org/search/?query=yukei+murakami&searchtype=all&source=header).<br>
 Don't forget to check out [my personal website](www.fromthecalmsea.com) too!
 
 
